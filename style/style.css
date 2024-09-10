@@ -1,0 +1,9 @@
+.user,
+#computer {
+  font-size: 50px;
+  width: 100px;
+}
+
+.user.actived {
+  background-color: yellow;
+}
